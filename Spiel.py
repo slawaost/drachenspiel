@@ -12,7 +12,7 @@ class Spiel:
         self.__shop = []
         
         #self.__shop.append(Item("Stock",1,5))
-
+        #grüße aus feature b
         #verwenden append() methode, damit element am ende der liste hinzufügen
 
         item1 = Item("Stock",1,5)
